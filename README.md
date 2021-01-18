@@ -1,4 +1,4 @@
-# PostHog Plugin Advanced Kit
+# PostHog Plugin Advanced Kit: Hello World
 
 [![npm package](https://img.shields.io/npm/v/posthog-plugin-hello-world?style=flat-square)](https://www.npmjs.com/package/posthog-plugin-hello-world)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg?style=flat-square)](https://opensource.org/licenses/MIT)
